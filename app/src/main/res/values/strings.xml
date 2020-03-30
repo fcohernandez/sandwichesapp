@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MR. ROCK</string>
+    <string name="sandwichesLabel">Sandwiches</string>
+    <string name="botonSandwiches">SANDWICHES</string>
+    <string name="botonAbout">SOBRE NOSOTROS</string>
+    <string name="descAbout">SOMOS UNA EMPRESA DE LA REGIÓN CON MÁS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES! LOS MEJORES DE LA ZONA, SI NO CHORREA NO ES MR. ROCK!</string>
+    <string name="chacareroNombre">Chacarero</string>
+    <string name="chacareroId">0</string>
+    <string name="chacareroIdImagen">0</string>
+    <string name="chacareroDescripcion"> Consiste en un sándwich compuesto por ají verde picado, lonjas de carne, porotos verdes cocidos fríos y tomates en rodajas.</string>
+    <string name="chacareroPrecio">$ 3000</string>
+    <string name="italianoNombre">Italiano</string>
+    <string name="italianoId">1</string>
+    <string name="italianoIdImagen">1</string>
+    <string name="italianoDescripcion">Consiste en un sándwich compuesto por churrasco o lomito, palta, tomate y mayonesa casera exclusiva del local.</string>
+    <string name="italianoPrecio">$ 3300</string>
+    <string name="diplomaticoNombre">Diplomático</string>
+    <string name="diplomaticoId">2</string>
+    <string name="diplomaticoIdImagen">2</string>
+    <string name="diplomaticoDescripcion">Consiste en un sándwich compuesto por churrasco o lomito, huevo, queso y mayonesa casera exclusiva del local.</string>
+    <string name="diplomaticoPrecio">$ 3500</string>
+    <string name="alopobreNombre">A lo pobre</string>
+    <string name="alopobreId">3</string>
+    <string name="alopobreIdImagen">3</string>
+    <string name="alopobreDescripcion">Consiste en un sándwich compuesto por churrasco o lomito, cebolla caramelizada, huevo y mayonesa casera exclusiva del local.</string>
+    <string name="alopobrePrecio">$ 3800</string>
+    <string name="barrosJarpaNombre">Barros Jarpa</string>
+    <string name="barrosJarpaId">4</string>
+    <string name="barrosJarpaIdImagen">4</string>
+    <string name="barrosJarpaDescripcion">Consiste en un sándwich compuesto por jamón de alta calidad y exquisito queso del sur.</string>
+    <string name="barrosJarpaPrecio">$ 1800</string>
+</resources>
